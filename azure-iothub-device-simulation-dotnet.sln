@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-iothub-device-simulation-dotnet", "azure-iothub-device-simulation-dotnet.csproj", "{F98A9D06-3BA9-4F71-9BE6-402BCB44DADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98A9D06-3BA9-4F71-9BE6-402BCB44DADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98A9D06-3BA9-4F71-9BE6-402BCB44DADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98A9D06-3BA9-4F71-9BE6-402BCB44DADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98A9D06-3BA9-4F71-9BE6-402BCB44DADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.TransientFaultHandling.6.0.1304.0\lib\portable-net45+win+wp8
+		SolutionGuid = {3BCA592C-86ED-4FFA-9F8B-4251B6265F6C}
+	EndGlobalSection
+EndGlobal
